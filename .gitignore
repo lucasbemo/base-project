@@ -21,7 +21,7 @@ logs/
 *.log
 
 ### Internal prompts and notes ###
-prompts/
+
 
 ### STS ###
 .apt_generated
